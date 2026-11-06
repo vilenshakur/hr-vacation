@@ -1,0 +1,5 @@
+#root { min-height: 100vh; }
+
+::selection { background: #e8c3b4; color: #23332d; }
+
+input, select, textarea { accent-color: #52775b; }
